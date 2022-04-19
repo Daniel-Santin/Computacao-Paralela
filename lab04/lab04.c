@@ -1,3 +1,6 @@
+//Daniel Ferreira Santin 32037139
+//Joao Paulo Bulhoes Pequeno 32089988
+
 #include <sys/ipc.h>
 #include <sys/shm.h>
 #include <sys/wait.h>
